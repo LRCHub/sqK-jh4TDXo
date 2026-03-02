@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Machine Love",
+  "base_artist": "Jamie Paige",
+  "createdAt": "2026-03-02T02:49:05.898435Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Machine Love",
+      "artist": "The Rentals",
+      "has_synced": false,
+      "path": "select/01_Machine_Love_The_Rentals.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Machine Love",
+      "artist": "Genitorturers",
+      "has_synced": true,
+      "path": "select/02_Machine_Love_Genitorturers.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Machine Love (Evil D & Sketchy mix)",
+      "artist": "Genitorturers",
+      "has_synced": true,
+      "path": "select/03_Machine_Love_(Evil_D_&_Sketchy_mix)_Genitorturers.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Machine Love [Instrumental]",
+      "artist": "Jamie Paige",
+      "has_synced": false,
+      "path": "select/04_Machine_Love_[Instrumental]_Jamie_Paige.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Machine Love",
+      "artist": "Jamie Paige",
+      "has_synced": true,
+      "path": "select/05_Machine_Love_Jamie_Paige.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Machine Love",
+      "artist": "Jamie Paige",
+      "has_synced": true,
+      "path": "select/06_Machine_Love_Jamie_Paige.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Machine Love",
+      "artist": "Jamie Paige",
+      "has_synced": false,
+      "path": "select/07_Machine_Love_Jamie_Paige.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Machine Love",
+      "artist": "Jamie Paige",
+      "has_synced": true,
+      "path": "select/08_Machine_Love_Jamie_Paige.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Machine Love (Evil D. & Sketchy Mix)",
+      "artist": "Genitorturers",
+      "has_synced": true,
+      "path": "select/09_Machine_Love_(Evil_D._&_Sketchy_Mix)_Genitorturers.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Machine Love",
+      "artist": "Jamie Paige",
+      "has_synced": true,
+      "path": "select/10_Machine_Love_Jamie_Paige.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Machine Love (Paused)",
+      "artist": "Jamie Paige",
+      "has_synced": true,
+      "path": "select/11_Machine_Love_(Paused)_Jamie_Paige.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Machine Love",
+      "artist": "Jamie Paige",
+      "has_synced": true,
+      "path": "select/12_Machine_Love_Jamie_Paige.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Machine Love",
+      "artist": "Jamie Paige feat. Kasane Teto",
+      "has_synced": true,
+      "path": "select/13_Machine_Love_Jamie_Paige_feat._Kasane_Teto.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Machine Love",
+      "artist": "Jamie Paige",
+      "has_synced": false,
+      "path": "select/pl_01_Machine_Love_Jamie_Paige.txt"
+    }
+  ]
+}
